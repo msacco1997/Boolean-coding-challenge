@@ -1,0 +1,63 @@
+body{
+  background-image: url(immagini/background.jpg);
+  background-size: 1920px;
+}
+nav, header{
+  text-align: center;
+}
+nav, header, main{
+}
+ h1{
+  color: #00CC33;
+ }
+
+nav{
+  background-color: #00CC33;
+  margin: 40px;
+  padding: 15px;
+}
+
+h3{
+  display: inline-block;
+  color: white;
+}
+
+p{
+  color: white;
+  padding-top: 0px;
+}
+
+.logo{
+  width: 300px;
+}
+
+.container{
+    background: rgba(49, 49, 49, 0.7);
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#general{
+  width: 1000px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: auto;
+}
+
+#rectangle1{
+  width: 300px;
+  height: 20px;
+  background: orange;
+}
+#rectangle2{
+  width: 600px;
+  height: 20px;
+  background: green;
+}
+#rectangle3{
+  width: 150px;
+  height: 20px;
+  background: red;
+}
